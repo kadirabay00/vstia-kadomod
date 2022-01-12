@@ -141,7 +141,12 @@ const iltifatlar = [
     "Senle Deniz Kenarında Gökyüzünü İzlemek İsterdim Ah Be Şimdiki Duruma Bak",
     "Duygularım Darmadağın.",
     "Senin Gülüşün Benim En Sevdiğim Mevsim.",
-    "İlk öpücüğümüz destansı olacak, değil mi?"
+    "İlk öpücüğümüz destansı olacak, değil mi?",
+    "konum atta belamızı bulalım bebeğim",
+    "Üşüdüysen canımı yakabilirsin",
+    "Ölmene gerek yok, yanıma gel mekanın cennet olsun",
+    "Teknoloji çok ilerledi, güneşi bu kadar yakından görebildiğimize göre",
+    "Dünyanın en güzel manzarasına sırtımı döner gülüşünü izlerim"
 ];
 
 var iltifatSayi = 0;
